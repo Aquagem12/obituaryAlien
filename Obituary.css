@@ -1,0 +1,42 @@
+body{ 
+    background-image:url(https://images.pexels.com/photos/912110/pexels-photo-912110.jpeg?cs=srgb&dl=pexels-elia-clerici-282848-912110.jpg&fm=jpg);
+    background-size: cover; 
+    padding: 20px;
+    text-align: center;
+}
+
+h1{  
+    background-color: lightblue;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-right: 1rem;
+    padding: 1rem;
+    display: inline-block;
+}
+
+img{ 
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 20rem;
+    
+}
+
+.description{ 
+    background-color:aliceblue;
+    border-radius: 10rem;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#words{
+    margin: 10px 25px 10px 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+figcaption{
+    font-style: italic;
+}
+
+video{ 
+    width: 25%;
+}
